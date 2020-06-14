@@ -1,2 +1,2 @@
 # Renaissance-Man-Discord-Bot
-A discord bot with many features
+Renaissance Man is a bot designed for servers looking for a multi-purpose "renaissance-man' type bot for them to enjoy. This is an ongoing project and will be for quite some time, this means that there will be many new features coming to the bot. Renaissance Man currently has features such as a music (play music in a voice channel), swear filtering, role managment, and many more to come. 
